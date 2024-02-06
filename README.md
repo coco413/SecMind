@@ -303,3 +303,5 @@ https://github.com/phith0n/Mind-Map
 │   └── 个人知识管理工具软件.jpg
 └── README.md
 ```
+- 2024-02-06 v0.3
+    - 看到HackerMind项目，做了一些合并&去重，删掉一些没啥意义的脑图。
